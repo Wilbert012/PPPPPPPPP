@@ -3,28 +3,9 @@
 #include <iostream>
 #include "Chef.h"
 #include "ItalianChef.h"
+#include "Daffa.h"
+#include "Wilbert.h"
 using namespace std;
-
-
-class Daffa {
-public:
-	void DaffaIsSmart() {
-		cout << "Thank you :)" << endl;
-	}
-	void DaffaIsUnsmart() {
-		cout << "Impossible" << endl;
-	}
-};
-
-class Wilbert {
-public:
-	void Wilbert1() {
-		cout << "You're welcome!" << endl;
-	}
-	void Wilbert2() {
-		cout << "No, it's possible, but I agree with you." << endl;
-	}
-};
 
 int main()
 {
@@ -36,11 +17,11 @@ int main()
 	ItalianChef.makeSpecialDish();
 
 
-	Daffa daffa;
+	Daffa daffa{ 66, 190 };
 	daffa.DaffaIsSmart();
 
-	Wilbert wilbert;
-	wilbert.Wilbert1();
+	Wilbert wilbert{ 77, 177 };
+	wilbert.WilbertYW();
 
 	return 0;
 }

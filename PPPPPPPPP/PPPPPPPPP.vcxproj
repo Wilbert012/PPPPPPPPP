@@ -128,14 +128,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chef.cpp" />
+    <ClCompile Include="Daffa.cpp" />
     <ClCompile Include="ItalianChef.cpp" />
     <ClCompile Include="PPPPPPPPP.cpp" />
     <ClCompile Include="PPPPPPPPPExample.cpp" />
+    <ClCompile Include="Wilbert.cpp" />
+    <ClCompile Include="WND.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chef.h" />
+    <ClInclude Include="Daffa.h" />
     <ClInclude Include="ItalianChef.h" />
     <ClInclude Include="PPPPPPPPP.h" />
+    <ClInclude Include="Wilbert.h" />
+    <ClInclude Include="WND.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

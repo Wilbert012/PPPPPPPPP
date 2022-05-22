@@ -27,6 +27,15 @@
     <ClCompile Include="PPPPPPPPPExample.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Daffa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WND.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wilbert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PPPPPPPPP.h">
@@ -36,6 +45,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ItalianChef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Daffa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wilbert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WND.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
