@@ -12,10 +12,6 @@ Chef::~Chef()
 {
 }
 
-void Chef::Dish()
-{
-}
-
 void Chef::makeChicken() 
 {
 	std::cout << "The chef makes yummy chicken\n";
@@ -28,5 +24,5 @@ void Chef::makeSalad()
 
 void Chef::makeSpecialDish() 
 {
-	std::cout << "The chef makes bbq ribs\n";
+	std::cout << "The chef makes rendang\n";
 }

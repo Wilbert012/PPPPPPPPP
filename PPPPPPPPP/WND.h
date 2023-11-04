@@ -19,6 +19,4 @@ public:
 	int GetWeight();
 
 	void SetWeight(int Weight);
-
-	virtual void WNothing();
 };

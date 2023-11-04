@@ -12,10 +12,6 @@ Daffa::~Daffa()
 {
 }
 
-void Daffa::WNothing()
-{
-}
-
 void Daffa::DaffaIsSmart()
 {
 	std::cout << "Thank you :)\n";

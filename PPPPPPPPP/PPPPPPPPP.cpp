@@ -32,8 +32,3 @@ void PPPPPPPPP::SetWeight(int Weight)
 {
 	this->Weight = Weight;
 }
-
-void PPPPPPPPP::makeSpecialDish()
-{
-	std::cout << "Welcome to an improvement of my 'PPPPPPPPP' C++ Inheritance code!\n";
-}

@@ -10,7 +10,6 @@ public:
 
 	virtual ~Wilbert();
 
-	virtual void WNothing();
 	void WilbertYW();
 	void WilbertNIPBIAWY();
 };

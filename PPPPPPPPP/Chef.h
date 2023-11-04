@@ -10,7 +10,6 @@ public:
 
 	virtual ~Chef();
 
-	virtual void Dish() ;
 	void makeChicken();
 	void makeSalad();
 	void makeSpecialDish() override;

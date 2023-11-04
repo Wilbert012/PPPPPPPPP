@@ -20,5 +20,5 @@ public:
 
 	void SetWeight(int Weight);
 
-	virtual void makeSpecialDish();
+	virtual void makeSpecialDish() = 0;
 };

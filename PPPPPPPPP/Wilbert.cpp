@@ -12,10 +12,6 @@ Wilbert::~Wilbert()
 {
 }
 
-void Wilbert::WNothing()
-{
-}
-
 void Wilbert::WilbertYW()
 {
 	std::cout << "You're welcome!\n";

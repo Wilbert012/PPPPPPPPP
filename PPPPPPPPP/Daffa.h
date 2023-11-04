@@ -10,7 +10,6 @@ public:
 
 	virtual ~Daffa();
 
-	virtual void WNothing() ;
 	void DaffaIsSmart();
 	void DaffaIsUnsmart();
 };

@@ -32,8 +32,3 @@ void WND::SetWeight(int Weight)
 {
 	this->Weight = Weight;
 }
-
-void WND::WNothing()
-{
-	std::cout << "Nothing.\n";
-}

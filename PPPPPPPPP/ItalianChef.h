@@ -10,7 +10,6 @@ public:
 
 	virtual ~ItalianChef();
 
-	virtual void Dish() ;
 	void makePasta() ;
 	void makeSpecialDish() override;
 };

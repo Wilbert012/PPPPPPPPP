@@ -13,10 +13,6 @@ ItalianChef::~ItalianChef()
 {
 }
 
-void ItalianChef::Dish()
-{
-}
-
 void ItalianChef::makePasta()
 {
 	std::cout << "The chef makes pasta\n";
