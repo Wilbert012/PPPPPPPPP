@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Command configuration",
+            "program": "$PROJECT_DIR$\\x64\\Debug\\PPPPPPPPP.exe"
+        }
+    ]
+}
