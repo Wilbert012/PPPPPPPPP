@@ -8,7 +8,7 @@ To run the C++ program, you will need to use Fleet. If you don't have a Fleet ac
 
 Once you have a Fleet account and installed, follow these steps to run the program:
 
-1. Open the Fleet program and log in to your Fleet account.
+1. Launch the Fleet and log in to your Fleet account.
 2. Download these C++ program files (PPPPPPPPP folder).
 3. In the PPPPPPPPP project, open the PPPPPPPPP folder and open the .fleet subfolder, then select the `run.json` file and click on the "Run" button.
 4. The program should now run in Fleet and display the output in the console.
