@@ -1,5 +1,3 @@
-#pragma once
-
 #include "WnD.h"
 
 WND::WND(int Height, int Weight) :
@@ -31,4 +29,5 @@ void WND::SetWeight(int Weight)
 {
 	this->Weight = Weight;
 }
+
 
