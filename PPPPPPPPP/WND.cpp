@@ -1,5 +1,4 @@
 #pragma once
-#include <iostream>
 
 #include "WnD.h"
 
@@ -32,3 +31,4 @@ void WND::SetWeight(int Weight)
 {
 	this->Weight = Weight;
 }
+
