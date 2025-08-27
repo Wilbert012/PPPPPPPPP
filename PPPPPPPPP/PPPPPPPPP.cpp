@@ -29,5 +29,3 @@ void PPPPPPPPP::SetWeight(int Weight)
 {
 	this->Weight = Weight;
 }
-
-
