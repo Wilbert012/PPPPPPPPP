@@ -1,5 +1,3 @@
-#pragma once
-
 #include <iostream>
 
 #include "ItalianChef.h"
@@ -21,4 +19,5 @@ void ItalianChef::makePasta()
 void ItalianChef::makeSpecialDish()
 {
 	std::cout << "The chef makes chicken parm\n";
+
 }
