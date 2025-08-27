@@ -1,5 +1,4 @@
 #pragma once
-#include <iostream>
 
 #include "PPPPPPPPP.h"
 
@@ -32,3 +31,4 @@ void PPPPPPPPP::SetWeight(int Weight)
 {
 	this->Weight = Weight;
 }
+
